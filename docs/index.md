@@ -141,15 +141,15 @@ except Exception as e:
 #### Listing 06
 ### Running Script in PyCharm and Terminal
 Then, I run the script in PyCharm and Terminal(Figure 01).
-![A screenshot of running script](https://github.com/sullakuang/IntroToProg-Python-Mod07/blob/master/docs/Picture%2001.png "A screenshot of running script")####
-Figure 01. A screenshot of running script
+![A screenshot of running script](https://github.com/sullakuang/IntroToProg-Python-Mod07/blob/master/docs/Picture%2001.png "A screenshot of running script")
+#### Figure 01. A screenshot of running script
 ### Verify the data 
 Next, I opened the folder and checked that the data is saved in the file(Figure 02).
-![Verify the data](https://github.com/sullakuang/IntroToProg-Python-Mod07/blob/master/docs/Picture%2002.png "Verify the data")####
-Figure 02. Verify the data
+![Verify the data](https://github.com/sullakuang/IntroToProg-Python-Mod07/blob/master/docs/Picture%2002.png "Verify the data")
+#### Figure 02. Verify the data
 ### Create github repository
 Finally, I upload all of my assignment work in my github website(Figure 03).
-![Assignment uploading on the github](https://github.com/sullakuang/IntroToProg-Python-Mod07/blob/master/docs/Picture%2003.png "Assignment uploading on the github")####
-Figure 03. Assignment uploading on the github
+![Assignment uploading on the github](https://github.com/sullakuang/IntroToProg-Python-Mod07/blob/master/docs/Picture%2003.png "Assignment uploading on the github")
+#### Figure 03. Assignment uploading on the github
 ## Summary
 In this assignment, I have learned how to use pickle to dump and load data, and also how to use Try-Except to handling with errors.
